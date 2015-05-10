@@ -1,4 +1,13 @@
-## Introduction
+## User Manual
+1. Copy .R source codes (4 files) to the working directory.
+2. Create "data" folder under the working directory, and copy original data (household_power_consumption.txt) to this "data" folder.
+3. In R or RStudio, run the following codes sequentially, the four png files will be generated.
+* source("plot1.R")
+* source("plot2.R")
+* source("plot3.R")
+* source("plot4.R")
+
+## Introduction (From Original Fork)
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
